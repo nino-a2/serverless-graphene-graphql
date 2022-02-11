@@ -1,0 +1,6 @@
+src/venv/
+
+iac/.terraform/
+iac/.terraform.lock.hcl
+
+output/
